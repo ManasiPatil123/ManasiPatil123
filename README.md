@@ -1,17 +1,11 @@
+![logo](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm MANASI RAMESH PATIL</h1>
-<h3 align="center">AI & ML Engineer</h3>
+<h3 align="center"> UI-UX Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasipatil123&label=Profile%20views&color=0e75b6&style=flat" alt="manasipatil123" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+![SVG Image](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/chat.svg)
 
-- 🌱 I’m currently learning **Web Design,Java Full stack Development**
-
-- 👯 I’m looking to collaborate on **Health Care System**
-
-- 💬 Ask me about **UI-UX,SQL,PowerBi,Excel**
-
-- 📫 How to reach me **manasirpatil11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
