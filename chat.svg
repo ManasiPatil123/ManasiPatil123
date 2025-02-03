@@ -276,7 +276,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> I am UI UX Designer ❤️</text>    
+    <text x="15" y="27"> I am AI-ML Engineer❤️</text>    
     <text x="15" y="50">Building something out of that beyond expectations </text>
   </g>
 
@@ -294,8 +294,8 @@
     <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">A Visionary Full Stack Java Devloper   🎯</text>
-    <text x="15" y="50">Developing UI UX design that learn and adapt</text>
+    <text x="15" y="27">A Visionary Data Science Engineer  🎯</text>
+    <text x="15" y="50">Developing ML Models with AI Intergreated </text>
   </g>
    <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
