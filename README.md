@@ -1,6 +1,6 @@
-![logo](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/1724869463225.jpg)
 <h1 align="center">Hi 👋, I'm MANASI RAMESH PATIL</h1>
-<h3 align="center"> UI-UX Designer </h3>
+<h3 align="center"> AI-ML Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasipatil123&label=Profile%20views&color=0e75b6&style=flat" alt="manasipatil123" /> </p>
 
