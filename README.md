@@ -1,20 +1,125 @@
-![logo](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/1724869463225.jpg)
+![logo](1757177399755.jpeg)
 <h1 align="center">Hi 👋, I'm MANASI RAMESH PATIL</h1>
-<h3 align="center"> AI-ML Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasipatil123&label=Profile%20views&color=0e75b6&style=flat" alt="manasipatil123" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst;SQL+Developer;UI%2FUX-Inspired+Dashboard+Designer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</h3>
 
-![SVG Image](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/chat.svg)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manasi-patil-186305287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasi-patil-186305287" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manasipatil123&label=Profile%20views&color=0e75b6&style=flat" alt="manasipatil123" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+![Analytics Banner](https://github.com/ManasiPatil123/ManasiPatil123/blob/main/chat.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasipatil123&show_icons=true&locale=en&layout=compact" alt="manasipatil123" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasipatil123&show_icons=true&locale=en" alt="manasipatil123" /></p>
+### 👩‍💻 About Me  
+🔹 Passionate **Data Analyst** with strong analytical, visualization, and storytelling skills.  
+🔹 Experienced in **Python, SQL, Excel, Power BI, Tableau, and Data Cleaning/Modeling**.  
+🔹 Creative background in **UI/UX Design** — I love making dashboards visually appealing and user-friendly.  
+🔹 Focused on blending **data insights + design thinking** to make better business decisions.  
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/manasi-patil-186305287" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:manasipatil123@gmail.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧰 Languages & Tools  
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+</a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
+</a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> 
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
+</a> 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+</a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server" width="40" height="40"/> 
+</a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40"/> 
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Photoshop" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
+</a>
+</p>
+
+---
+
+### 🎨 UI/UX + Data Visualization  
+Combining **data analytics and design thinking**, I specialize in creating dashboards and analytical tools that are both functional and visually intuitive.  
+I’ve worked on:
+- 📊 Power BI & Tableau dashboards  
+- 🎨 Figma prototypes for analytical web apps  
+- 💻 Responsive UI designs for data-driven applications  
+
+---
+
+### 🎓 Certifications  
+- 🎓 **Data Analysis using Python** – *Anudip Foundation*    
+- 💡 **Graphics & Web Designer Assistance** – *IDEMI, Mumbai*  
+- 📈 **Power BI for Business Analytics** – *Online Course*  
+ 
+
+---
+
+### 🚀 Projects & Interests  
+- 📈 **Airbnb Data Analysis** – Python, Pandas, Seaborn  
+- 🧠 **Wine Quality Prediction (ML)** – Scikit-learn, Python  
+- 🗃️ **SQL Database Management** – Queries, Joins, Triggers   
+- 🎨 **Gym App UI Design** – Figma Prototyping  
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasipatil123&show_icons=true&theme=react&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasipatil123&theme=react" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasipatil123&layout=compact&theme=react&langs_count=8" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manasipatil123&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+
+
+---
+
+⭐ *“Data tells a story — I just make it speak beautifully through visuals and insights.”*  
