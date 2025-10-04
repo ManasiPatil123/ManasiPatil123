@@ -3,31 +3,27 @@
 <h1 align="center">Hi 👋, I'm MANASI RAMESH PATIL</h1>
 
 <div align="center">
-
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&lines=Passionate+Data+Analyst;SQL+Developer;UI%2FUX+Dashboard+Designer;Excel+%26+Power+BI+Expert" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&center=true&lines=Passionate+Data+Analyst;SQL+Developer;UI%2FUX+Dashboard+Designer;Excel+%26+Power+BI+Expert" 
     alt="Typing SVG" 
   />
-
 </div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manasipatil123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
+---
+
+### 👩‍💻 About Me
+- 🔹 **Data Analyst & SQL Developer** with hands-on experience in Python, SQL, Excel, Power BI, and Tableau.  
+- 🔹 Skilled in **UI/UX Design**, creating intuitive, data-driven dashboards and interfaces.  
+- 🔹 Strong focus on **data visualization and storytelling**, helping businesses make informed decisions.  
+- 🔹 Committed to **design + analytics synergy** to deliver impactful solutions.
 
 ---
 
-### 👩‍💻 About Me  
-🔹 **Data Analyst & SQL Developer** with hands-on experience in Python, SQL, Excel, Power BI, and Tableau.  
-🔹 Skilled in **UI/UX Design**, creating intuitive, data-driven dashboards and interfaces.  
-🔹 Strong focus on **data visualization and storytelling**, helping businesses make informed decisions.  
-🔹 Committed to **design + analytics synergy** to deliver impactful solutions.  
-
----
-
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/manasi-patil-186305287" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -42,7 +38,7 @@
 
 ---
 
-### 🧰 Skills & Tools  
+### 🧰 Skills & Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
@@ -61,21 +57,21 @@
 
 ---
 
-### 🎨 Dashboard & UI/UX Projects  
-- 📊 **Power BI & Tableau Dashboards** – Interactive, insightful, business-ready  
-- 🎨 **Figma UI Prototypes** – Analytical web and mobile applications  
+### 🎨 Dashboard & UI/UX Projects
+- 📊 **Power BI & Tableau Dashboards** – Interactive, business-ready insights  
+- 🎨 **Figma UI Prototypes** – Analytical web & mobile applications  
 - 💻 **Responsive UI Design** – Data-driven, user-friendly interfaces  
 
 ---
 
-### 🎓 Certifications  
+### 🎓 Certifications
 - **Data Analysis using Python** – *Anudip Foundation*  
 - **Graphics & Web Designer Assistance** – *IDEMI, Mumbai*  
 - **Power BI for Business Analytics** – *Online Course*  
 
 ---
 
-### 🚀 Projects  
+### 🚀 Projects
 - **Airbnb Data Analysis** – Python, Pandas, Seaborn  
 - **Wine Quality Prediction** – Python, Scikit-learn  
 - **SQL Database Management** – Queries, Joins, Triggers  
@@ -83,7 +79,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasipatil123&show_icons=true&theme=react&count_private=true&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasipatil123&theme=react" width="48%"/>
