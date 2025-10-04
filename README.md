@@ -2,13 +2,20 @@
 
 <h1 align="center">Hi 👋, I'm MANASI RAMESH PATIL</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Passionate+Data+Analyst;SQL+Developer;UI%2FUX+Dashboard+Designer;Excel+%26+Power+BI+Expert" alt="Typing SVG" />
-</h3>
+<div align="center">
 
-<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&lines=Passionate+Data+Analyst;SQL+Developer;UI%2FUX+Dashboard+Designer;Excel+%26+Power+BI+Expert" 
+    alt="Typing SVG" 
+  />
+
+</div>
+
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=manasipatil123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+</div>
+
 
 ---
 
